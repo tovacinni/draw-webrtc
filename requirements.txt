@@ -1,0 +1,7 @@
+diffusers
+mss
+opencv-python
+pywinctl
+websockets
+aiortc
+asyncio
